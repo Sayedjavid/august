@@ -1,6 +1,6 @@
 Certainly! Here’s a comprehensive list of essential Linux commands that a Linux administrator with one year of experience should know. These commands are grouped by category for easier reference.
 
-### **File and Directory Operations**
+### **File and Directory Operations**   
 
 - **`ls`**: List directory contents
   - `ls -l` : Long listing format
