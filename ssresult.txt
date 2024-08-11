@@ -1,4 +1,0 @@
-Updating 23ea68a..1b74e46
-Fast-forward
- dd.sh | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
